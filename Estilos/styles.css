@@ -1,0 +1,166 @@
+
+body{
+    overflow-x: auto;
+    background: #E3CCD6;
+}
+.container{
+    width: 100%;
+    max-width: 1242px;
+    flex: 1; 
+}
+.title{
+    color:black;
+    text-align:center;
+    font-family: 'Fredoka One',cursive;
+}
+.review {
+    color:black;
+    height:300px;
+    width: 100%;
+  }
+.review p{
+    color: black;
+    font-family: 'Fredoka One',cursive;
+    text-align:center;
+    font-size:22px;
+    width:500px;
+    float: left;
+    height:300px;
+  }
+.review img{
+    color: black;
+    font-family: 'Fredoka One',cursive;
+    float: right;
+    width:500px;
+    height:300px;
+  }
+.Discos{
+    color: black;
+    font-family: 'Fredoka One',cursive;
+    height:600px;
+    width: 100%;
+}
+.Discos ol,li{
+    padding:1px;
+    margin:1px;
+    text-align:start;
+    color: black;
+    font-family: 'Fredoka One',cursive;
+    font-size:18px;
+    width: 270px;
+    float:right;
+    list-style-type:square;
+}
+.pictures{
+    background: #B23243;
+    margin-left: 3px;
+    padding-left: 15px;
+    padding-top: 4px;
+    float:left;
+    width:790px;
+  }
+.top{
+    color: black;
+    font-family: 'Fredoka One',cursive;
+    height:450px;
+    width: 100%;
+    margin-top: 3px;
+ }
+.top h1{
+    text-align:center;
+}
+.lista2{
+    text-align:center;
+    color: black;
+    font-family: 'Fredoka One',cursive;
+    width:400px;
+    float:left;
+}
+.li2{
+    list-style-type:none;
+    font-size: 25px;
+    width: 400px;
+    height: 59px;
+}
+.audios{
+    color: black;
+    font-family: 'Fredoka One',cursive;
+    text-align:center;
+    font-size:22px;
+    width:300px;
+    float: right;
+    height:50px;
+    margin:5px;
+    padding:5px;
+}
+.spotify{
+    align-items: center;
+    margin-left: 45px;
+    margin-bottom: 15px;
+}
+.pie{
+    background: #000;
+    height: 100%;
+    max-width: 1230px;
+    width: 100%;
+    border-radius: 3px;
+    margin-left: 9px;
+    text-align: center;
+}
+.icon1 {
+    color: #fff;
+    font-size:60px ;
+    margin-left:150px;
+    margin-top: 25px;
+    height: 100%;
+    align-items: stretch;
+    float: left;
+}
+.icon1:hover{
+    background-color: #B23243;
+    height: 70px;
+} 
+.icon2 {
+    color: #fff;
+    font-size:60px ;
+    margin: 10px;
+    margin-left: 5px;
+    margin-top: 25px;
+    margin-right: 170px;
+    height: 100%;
+    align-items: center;
+    float: none; 
+    display: inline-block;
+}
+.icon2:hover{
+    background-color: #B23243;
+    height: 68px;
+} 
+.icon3 {
+    color: #fff;
+    font-size:60px;
+    margin-left:15px;
+    margin-top: 25px;
+    height: 100%;
+    align-items: center;
+    float: none; 
+    display: inline-block;
+}
+.icon3:hover{
+    background-color: #B23243;
+    height: 70px;
+} 
+.icon4 {
+    color: #fff;
+    font-size:60px;
+    margin-left: 5px;
+    margin-top: 25px;
+    margin-right: 150px;
+    height: 100%;
+    align-items: center;
+    float:right;
+}
+.icon4:hover{
+    background-color: #B23243;
+    height: 70px;
+} 
